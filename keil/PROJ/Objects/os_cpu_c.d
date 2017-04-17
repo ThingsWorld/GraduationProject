@@ -1,0 +1,9 @@
+.\objects\os_cpu_c.o: ..\UCOSII\PORT\os_cpu_c.c
+.\objects\os_cpu_c.o: ..\UCOSII\CORE\ucos_ii.h
+.\objects\os_cpu_c.o: ..\UCOSII\CFG\app_cfg.h
+.\objects\os_cpu_c.o: ..\UCOSII\CPU\cpu.h
+.\objects\os_cpu_c.o: ..\UCOSII\CPU\cpu_def.h
+.\objects\os_cpu_c.o: ..\UCOSII\CFG\cpu_cfg.h
+.\objects\os_cpu_c.o: ..\UCOSII\CFG\os_cfg.h
+.\objects\os_cpu_c.o: ..\UCOSII\PORT\os_cpu.h
+.\objects\os_cpu_c.o: ..\UCOSII\LIB\lib_def.h

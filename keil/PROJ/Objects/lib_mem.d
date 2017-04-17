@@ -1,0 +1,12 @@
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_mem.c
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_mem.h
+.\objects\lib_mem.o: ..\UCOSII\CPU\cpu.h
+.\objects\lib_mem.o: ..\UCOSII\CPU\cpu_def.h
+.\objects\lib_mem.o: ..\UCOSII\CFG\cpu_cfg.h
+.\objects\lib_mem.o: ..\UCOSII\CPU\cpu_core.h
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_def.h
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_mem.h
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_str.h
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_ascii.h
+.\objects\lib_mem.o: ..\UCOSII\CFG\lib_cfg.h
+.\objects\lib_mem.o: ..\UCOSII\LIB\lib_math.h
